@@ -19,7 +19,7 @@
 
         main {
             padding-top: 55px;
-            height: calc(100% - 78px);
+            min-height: calc(100% - 78px);
             display: block;
         }
 
